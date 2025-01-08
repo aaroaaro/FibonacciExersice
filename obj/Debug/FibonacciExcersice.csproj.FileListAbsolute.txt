@@ -1,0 +1,7 @@
+C:\Repo\FibonacciExcersice\obj\Debug\FibonacciExcersice.csproj.AssemblyReference.cache
+C:\Repo\FibonacciExcersice\obj\Debug\FibonacciExcersice.csproj.CoreCompileInputs.cache
+C:\Repo\FibonacciExcersice\bin\Debug\FibonacciExcersice.exe.config
+C:\Repo\FibonacciExcersice\bin\Debug\FibonacciExcersice.exe
+C:\Repo\FibonacciExcersice\bin\Debug\FibonacciExcersice.pdb
+C:\Repo\FibonacciExcersice\obj\Debug\FibonacciExcersice.exe
+C:\Repo\FibonacciExcersice\obj\Debug\FibonacciExcersice.pdb
